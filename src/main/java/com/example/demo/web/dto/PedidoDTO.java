@@ -17,5 +17,4 @@ public class PedidoDTO {
 	private long usuarioId;
 	private String descripcion;
 	private List<ProductoDTO> productos;
-	private String costo;
 }
